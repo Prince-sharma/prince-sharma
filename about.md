@@ -1,18 +1,10 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an undergraduate at Indian Institute of Technology Bombay. I’m pursuing my a Bachelor’s degree at IIT Bombay with my major in Aerospace Engineering and minors in Computer Science.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I’m quite new to coding, but I have loved it right from the day I was introduced to it. I like to do things differently and search for a new innovative solution for every problem I encounter.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
