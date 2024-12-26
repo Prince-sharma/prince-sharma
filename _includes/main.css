@@ -618,7 +618,7 @@ th, td {
     50% { opacity: 0 }
     100% { opacity: 1 }
 }
--moz-keyframes show {
+@-moz-keyframes show {
     0% { opacity: 0 }
     50% { opacity: 0 }
     100% { opacity: 1 }
@@ -633,6 +633,37 @@ th, td {
     50% { opacity: 0 }
     100% { opacity: 1 }
 }
+
+/* Center-align and style all images on the site */
+img {
+  display: block; /* Treat images as block elements for alignment */
+  margin: 0 auto; /* Center-align all images horizontally */
+  max-width: 100%; /* Make images responsive by limiting their width to the container */
+  height: auto; /* Maintain the original aspect ratio */
+  border-radius: 8px; /* Optional: Add rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for better aesthetics */
+}
+
+/* Add spacing around images for better readability */
+img {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+/* Optional: Adjust styles for small screens */
+@media (max-width: 768px) {
+  img {
+    max-width: 90%; /* Slightly reduce image width on smaller screens */
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* Optional: Add a maximum width for very large images */
+img {
+  max-width: 1200px; /* Prevent images from being too large on wide screens */
+}
+
 
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
