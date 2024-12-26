@@ -42,7 +42,8 @@ IDP automates the handling of documents including data capture, document classif
    1. Competitor website, product walkthrough in case the product is accessible with signup, Youtube and publicly accessible blogs with demos of the platform
 
    2. G2 and gartner websites with recent customer reviews and feature comparisons
-![table of competitor study](./../assets/images/competetior-study.png)                                                |
+
+![table of competitor study](https://github.com/Prince-sharma/prince-sharma/blob/gh-pages/assets/images/competetior-study.png)
 
 Key differentiators and competitive advantage of DocSumo
 
